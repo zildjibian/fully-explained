@@ -1,4 +1,4 @@
-**Hint: Start in 2008**<br>
+"**Hint: Start in 2008...**"<br>
 Means that we have to start in 2008 Alalal<br>
 <br>
 Go grab this key then head into the locked apartment.<br>
@@ -14,12 +14,11 @@ If you head on top of the same apartment and enter the broken glass, you'll see 
 Applying this to those clickable tiles gives: "16 13 5 2 8"<br>
 Remove spaces and you'll get "1613528", use that in the code input.<br>
 Return to the broken glass and you'll get teleported to a brand new area.<br>
-<br>
-<br>
+
 # Room 1
 ![image](https://github.com/user-attachments/assets/a46f3fca-76f2-40a5-85e1-f4675cf48e9c)<br>
 This is just a normal keypad.<br>
-Start at white -> 7043760029 -> https://www.roblox.com/users/7043760029/profile<br>
+Start at white => 7043760029 -> https://www.roblox.com/users/7043760029/profile<br>
 The t-shirt that he wears is not the original one.<br>
 ```
 Most famous Roblox weapon; -> Linked Sword
@@ -33,7 +32,7 @@ This room is splitted into 2 parts.
 
 ## Part 1: The Floor
 ![image](https://github.com/user-attachments/assets/5b30c822-1921-4577-b689-2dfa06211f16)<br>
-Just a Hexahue cipher -> "TURKEY SANDWICH"<br>
+Just a Hexahue cipher => "**TURKEY SANDWICH**"<br>
 
 ## Part 2
 ```
@@ -41,15 +40,15 @@ PCKD KJLWSR
 2 = 1 4 3
 Read the hint. Break it up into four. 
 ```
-TUR KEY SAND WICH<br>
+Break it up => TUR KEY SAND WICH<br>
 2 = 1 4 3<br>
 KEY = TUR WICH SAND (vigenere)<br>
-Decode that -> "WITH CHEESE"<br>
+Decode "PCKD KJLWSR" => "**WITH CHEESE**"<br>
 <br>
 Combine part 1 with part 2, add spaces, capitalize everything.<br>
 **/e TURKEY SANDWICH WITH CHEESE**
 
-# Room 2
+# Room 3
 We got 3 parts now.
 
 ## Part 1
@@ -83,7 +82,8 @@ high -> **hi**
 "hi" in binary is **0110100001101001**
 
 ## Part 3
-0110100001101001 -> **1211421121**
+Count the 1's and 0's.<br>
+0110100001101001 => **1211421121**
 
 ## Part 4
 https://www.roblox.com/users/1211421121/profile -> @raymond94512<br>
@@ -106,12 +106,12 @@ Overlay.<br>
 ## Left Side
 Look on the billboard, 9i1UiiSJ. <br>
 It's a Pastebin link: https://pastebin.com/9i1UiiSJ <br>
-Unlock it with the word you got from right side.<br><br>
+Unlock it with the word you got from Right Side.<br><br>
 ![image](https://github.com/user-attachments/assets/39162844-c930-4a4b-a210-4ec48c160f3e)<br>
-'tis Jalalal.<br>
+Jalalal!<br><br>
 Once you got the code, say it in [RED ORANGE ORANGE TEAL]. <br>
 If you remember the keypad from room 1, each one of them is assigned to color.<br>
-[RED ORANGE ORANGE TEAL] -> 1337<br>
+[RED ORANGE ORANGE TEAL] => 1337<br>
 Jalalal in 1337 is "**J414141**"<br>
 
 ## Room 5.1
@@ -119,3 +119,30 @@ Jalalal in 1337 is "**J414141**"<br>
 This refers to "Invisible Egg of **Shadow**"
 
 # Room 6
+Each picture in the room has a text hidden on the picture itself.<br>
+
+## Step 1
+"Top of a doorframe."<br>
+It's the doorframe connecting Room 4 to Room 5.<br>
+![image](https://github.com/user-attachments/assets/b0407e72-82b1-440f-8009-d91c55c7782c)<br><br>
+There are 3 hats inside Room 6, which are: Screw, Cheese Hat, Coif of Glory.<br>
+This is referring to The Void Star Gift Box.<br>
+![image](https://github.com/user-attachments/assets/0e34d84f-e7e0-4fe9-ba81-6df71c3c33b9)<br>
+The secret password is "**ALGERNON**"
+
+## Step 2
+"On a rock in the basement."<br>
+This refers to Room 5.1.<br>
+"Eyes are key."<br><br>
+
+If you look at the eyes of the figures in Room 6, they're either closed, open, or patched.<br>
+Using the arrow order and lines as seperator;<br>
+you'll get: "... .- .-.. .- -..", this is clearly morse which decodes to "**SALAD**"
+
+## Step 3
+"Vigenere encrypt."<br>
+Self-explanatory.<br><br>
+**/e SLREUFOY**
+
+# GG!
+![image](https://github.com/user-attachments/assets/6e466bd3-b9a0-45f3-8d88-69cf7bba69f8)
