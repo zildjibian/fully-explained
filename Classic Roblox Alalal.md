@@ -69,7 +69,6 @@ Sardinia -> **Sardine**
 ## Part 3
 Liquid food -> **soup**<br>
 <br>
-<br>
 Using the same rule as the previous room gives "**/e CANNED SARDINE SOUP**"<br>
 
 # Room 4
