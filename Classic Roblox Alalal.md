@@ -1,4 +1,4 @@
-Hint: Start in 2008<br>
+**Hint: Start in 2008**<br>
 Means that we have to start in 2008 Alalal<br>
 <br>
 Go grab this key then head into the locked apartment.<br>
@@ -72,3 +72,50 @@ Liquid food -> **soup**<br>
 <br>
 <br>
 Using the same rule as the previous room gives "**/e CANNED SARDINE SOUP**"<br>
+
+# Room 4
+Room 4, 4 parts.
+## Part 1
+Common greeting; opposite of low.<br>
+high -> **hi**
+
+## Part 2
+"hi" in binary is **0110100001101001**
+
+## Part 3
+0110100001101001 -> **1211421121**
+
+## Part 4
+https://www.roblox.com/users/1211421121/profile -> @raymond94512<br>
+<br>
+**/e raymond94512**
+
+# Room 5
+Not sure how many parts this room has...
+
+## Right Side
+If you look in the crossroads tower, you can see "3p03tfx; /a/".<br>
+It's an Imgur link: https://imgur.com/a/3p03tfx <br><br>
+![image](https://github.com/user-attachments/assets/6b905772-7135-48e4-98da-a7e98ad0d280)<br>
+Align the red line together.<br>
+![image](https://github.com/user-attachments/assets/248f714d-0695-46b6-b126-d9ea3cf5622a)<br>
+Overlay.<br>
+![image](https://github.com/user-attachments/assets/0f260f2a-22cd-4620-a609-d21de70c0aa0)<br>
+"**smorgasbord**"
+
+## Left Side
+Look on the billboard, 9i1UiiSJ. <br>
+It's a Pastebin link: https://pastebin.com/9i1UiiSJ <br>
+Unlock it with the word you got from right side.<br><br>
+![image](https://github.com/user-attachments/assets/39162844-c930-4a4b-a210-4ec48c160f3e)<br>
+'tis Jalalal.<br>
+Once you got the code, say it in [RED ORANGE ORANGE TEAL]. <br>
+If you remember the keypad from room 1, each one of them is assigned to color.<br>
+[RED ORANGE ORANGE TEAL] -> 1337<br>
+Jalalal in 1337 is "**J414141**"<br>
+
+## Room 5.1
+![image](https://github.com/user-attachments/assets/4b1cd589-e746-4639-aaf6-46faa5fff347)<br>
+This refers to "Invisible Egg of **Shadow**"
+
+# Room 6
